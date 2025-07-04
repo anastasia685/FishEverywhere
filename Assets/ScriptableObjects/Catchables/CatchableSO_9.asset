@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_9
+  m_EditorClassIdentifier: 
+  id: 70400eec-cef0-4abf-b013-e06bb5c3341f
+  itemName: Fox Ray
+  environments: 0200000003000000
+  environmentCounts: 0100000001000000
+  itemIcon: {fileID: 21300000, guid: 7e7d79a73710e2e42b95783027f5757a, type: 3}
+  itemDescription: "I have heard tales of a Fox Stingray that walked on four legs.
+    \u201CPreposterous!\u201D I once thought, but perhaps it is not so farfetched
+    after all. Through my research I have found that such rumours are oft grounded
+    in truth. Something happened here long ago, and I will find it."
+  itemLocation: Forest - Ground & Undergrowth
+  baseSize: 100
+  sizeRange: 75
+  beastiaryEntry: {fileID: 11400000, guid: 06db3ae25504e6d41ab92599293f2316, type: 2}

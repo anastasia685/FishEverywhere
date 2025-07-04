@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_7
+  m_EditorClassIdentifier: 
+  id: f16b0b42-df48-4444-adfc-7e4f55abb4f5
+  itemName: Flat Leaf
+  environments: 0200000004000000
+  environmentCounts: 0400000003000000
+  itemIcon: {fileID: 21300000, guid: a19992d1203b44a479a64f59160af61b, type: 3}
+  itemDescription: "\u201CYup, that\u2019s a fish.\u201D \u201CAre you crazy? That\u2019s
+    obviously a leaf!\u201D \u201CI don\u2019t know what to tell you, man. That\u2019s
+    a fish.\u201D \u201CImpossible\u2026 it looks so natural\u2026\u201D \u201CLast
+    time I checked leaves don\u2019t squeal when you step on them.\u201D \u201CI\u2019m
+    telling you that was-\u201D \u201COh look at that. It blinked.\u201D"
+  itemLocation: Forest - Ground & Plants
+  baseSize: 20
+  sizeRange: 5
+  beastiaryEntry: {fileID: 11400000, guid: 6709ca46ca59cc54f92bd01d59d64b97, type: 2}

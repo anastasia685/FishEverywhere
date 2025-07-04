@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_0
+  m_EditorClassIdentifier: 
+  id: fd36e659-2fee-4c33-8cea-15942914ab3d
+  itemName: Mushroom Angler
+  environments: 0300000004000000
+  environmentCounts: 0200000001000000
+  itemIcon: {fileID: 21300000, guid: 1e702b6652c88bc4ca6b3cb56a7cdd7d, type: 3}
+  itemDescription: "Alderman\u2019s Log. Autumn, 12th day, 189th cycle: Two more
+    dead. Five more transfigured. It was the angler and his family this time. A day
+    like any other, he reported, same spot and the same plan. But the fauna had changed.
+    They are the anglers now, and we are but fish."
+  itemLocation: Forest - Undergrowth & Plants
+  baseSize: 30
+  sizeRange: 10
+  beastiaryEntry: {fileID: 11400000, guid: b7a9bad4734751c429316219a89a252c, type: 2}

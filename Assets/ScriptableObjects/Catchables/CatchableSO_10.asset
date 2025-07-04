@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_10
+  m_EditorClassIdentifier: 
+  id: 26d6b0f4-4b0f-47e3-9dda-1846a2578ea8
+  itemName: Star Mole
+  environments: 02000000
+  environmentCounts: 02000000
+  itemIcon: {fileID: 21300000, guid: ffb89c353e1bad74393d8a8a7308de3c, type: 3}
+  itemDescription: Further. Faster. Deeper. Further into the earth it swims. Earth.
+    Soil. Bones. So many bones, too many bones. Why are they here? To whom do they
+    belong? Fin. Spine. Skull. Not quite fish, not quite human; perhaps something
+    in between? Death. Transfiguration. Metamorphosis.
+  itemLocation: Forest - Ground
+  baseSize: 75
+  sizeRange: 25
+  beastiaryEntry: {fileID: 11400000, guid: 41a3aa4f09308d54d95a0ff7a287f5de, type: 2}

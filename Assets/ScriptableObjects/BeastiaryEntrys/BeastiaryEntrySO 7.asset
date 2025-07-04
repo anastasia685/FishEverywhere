@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b90ca5cb4dbf1324bbe8a84754444342, type: 3}
+  m_Name: BeastiaryEntrySO 7
+  m_EditorClassIdentifier: 
+  Fish: {fileID: 11400000, guid: 299b9c55c508f014bafd023e2cc9909f, type: 2}
+  Description: "\u201CYup, that\u2019s a fish.\u201D \u201CAre you crazy? That\u2019s
+    obviously a leaf!\u201D \u201CI don\u2019t know what to tell you, man. That\u2019s
+    a fish.\u201D \u201CImpossible\u2026 it looks so natural\u2026\u201D \u201CLast
+    time I checked leaves don\u2019t squeal when you step on them.\u201D \u201CI\u2019m
+    telling you that was-\u201D \u201COh look at that. It blinked.\u201D"
+  Location: Forest - Ground & Plants
+  LargestCaught: 0
+  CommonCaught: 0
+  RareCaught: 0
+  EpicCaught: 0

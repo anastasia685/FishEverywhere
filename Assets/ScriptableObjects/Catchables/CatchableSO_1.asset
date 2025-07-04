@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_1
+  m_EditorClassIdentifier: 
+  id: 01cf5a5a-fd16-44eb-ab9c-65e3e7facd3d
+  itemName: Acorn Hermit
+  environments: 0200000003000000
+  environmentCounts: 0300000002000000
+  itemIcon: {fileID: 21300000, guid: bba69207bf0a0284d9410c02214ce436, type: 3}
+  itemDescription: Many fish have ways of defending themselves, few are so prepared
+    for battle. An Acorn Hermit will change armour many times in its life, looking
+    for the greatest fortress. When venturing into a forest, check the acorns for
+    scratches and you may find the a legacy of tiny battles.
+  itemLocation: Forest - Ground & Undergrowth
+  baseSize: 5
+  sizeRange: 3
+  beastiaryEntry: {fileID: 11400000, guid: cdda4ba38cb8fcf468415824d38e362e, type: 2}

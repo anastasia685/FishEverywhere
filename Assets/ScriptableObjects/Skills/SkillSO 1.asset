@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd665b2a08442da4aa4d628c27f3d08f, type: 3}
+  m_Name: SkillSO 1
+  m_EditorClassIdentifier: 
+  id: 62fe72dd-37a8-42a7-ac26-c0f9e03e2acb
+  skillName: Treasure Scavenger
+  skillIcon: {fileID: 21300000, guid: bb300be8f7367634e88de4540fcf85dd, type: 3}
+  description: Increased chance of rare catches
+  cost: 30
+  children:
+  - {fileID: 11400000, guid: 7b34effbcc73f2f4d9296822a592c16b, type: 2}
+  buffType: 0
+  buffMultiplier: 1.2

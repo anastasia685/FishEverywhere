@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd665b2a08442da4aa4d628c27f3d08f, type: 3}
+  m_Name: SkillSO 0
+  m_EditorClassIdentifier: 
+  skillName: Treasure Hunter 1
+  skillImg: {fileID: 21300000, guid: bb373e5c1582f2449ab076e6d3a56b08, type: 3}
+  description: Increased chance of rarer catches
+  cost: 20
+  available: 1
+  active: 1
+  children:
+  - {fileID: 11400000, guid: 3d04c84b46c73014aaca917d6951ced2, type: 2}
+  buffType: 0
+  buffMultiplier: 1.25

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cf985f6b3334af4fbf02b8ea502870b, type: 3}
+  m_Name: ForestUndergrowthCaught
+  m_EditorClassIdentifier: 
+  id: 7d85f0de-c60c-4d15-b18c-ced614d0772c
+  type: 4
+  achievementName: 
+  achievementIcon: {fileID: 1341434584, guid: a1194931d48d6f0459750b5e382a1393, type: 3}
+  description: Catch X fish from forest undergrowth
+  levels: 1e000000640000002c010000
+  environment: 3

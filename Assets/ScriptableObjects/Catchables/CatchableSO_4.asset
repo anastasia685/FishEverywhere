@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_4
+  m_EditorClassIdentifier: 
+  id: 6f2b2ce4-2ef9-4df0-b70e-16db34b32805
+  itemName: Crab Apple
+  environments: 04000000
+  environmentCounts: 04000000
+  itemIcon: {fileID: 21300000, guid: 107b70412fcdef4419992637c47f4065, type: 3}
+  itemDescription: "I\u2019ve been eating apples my whole life, yet I still have
+    no peace! But I think I\u2019ve found a solution. I\u2019ve filled my garden
+    with Crab Apples and no one has dared to come close since. I guess it\u2019s
+    true that an apple a day keeps the doctor away."
+  itemLocation: Forest - Plants
+  baseSize: 20
+  sizeRange: 10
+  beastiaryEntry: {fileID: 11400000, guid: e92ba5d2998ffa24a8e6ced3ee9026df, type: 2}

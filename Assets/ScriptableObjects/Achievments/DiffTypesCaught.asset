@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 678b74c1686e605449dade89c6dfb422, type: 3}
+  m_Name: DiffTypesCaught
+  m_EditorClassIdentifier: 
+  id: 81302b0b-115b-4f18-842c-a33bab33734f
+  type: 5
+  achievementName: 
+  achievementIcon: {fileID: 21300000, guid: 53631ff721394594facd349831076934, type: 3}
+  description: Discover X different types of fish
+  levels: 01000000060000000c000000

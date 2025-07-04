@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_8
+  m_EditorClassIdentifier: 
+  id: 9ef5d238-e638-431f-a12c-61a8a689fa49
+  itemName: Clown Pear
+  environments: 04000000
+  environmentCounts: 03000000
+  itemIcon: {fileID: 21300000, guid: 46e925c49137bb043b3e67b802f8f56d, type: 3}
+  itemDescription: "You know, it is kind of funny. Yesterday this was a pear, today
+    it\u2019s a fish. And a clownfish at that! It seems to refuse to tell me any
+    jokes though. Not that I need any; this whole situation is the biggest joke.
+    Wonder if I\u2019ll be a funny fish too."
+  itemLocation: Forest - Plants
+  baseSize: 25
+  sizeRange: 15
+  beastiaryEntry: {fileID: 11400000, guid: 851e64750b0e30349bd260d3e4c1dd05, type: 2}

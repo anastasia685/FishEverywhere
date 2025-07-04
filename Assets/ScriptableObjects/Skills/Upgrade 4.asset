@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd665b2a08442da4aa4d628c27f3d08f, type: 3}
+  m_Name: Upgrade 4
+  m_EditorClassIdentifier: 
+  id: e3756d5c-647a-4fb1-86b0-69546086384f
+  skillName: Mythic Fishing
+  skillIcon: {fileID: 21300000, guid: 3cfee2fb7c7702b4fb129f2d2a29b24d, type: 3}
+  description: 'Your increased skill and experience fishing helps you catch fish! '
+  cost: 50
+  children: []
+  buffType: 2
+  buffMultiplier: 1.5

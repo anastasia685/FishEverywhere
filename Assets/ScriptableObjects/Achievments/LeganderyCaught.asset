@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80200c33ae5790449b6794753ba95ba3, type: 3}
+  m_Name: LeganderyCaught
+  m_EditorClassIdentifier: 
+  id: 0834296c-42d0-4cae-a7c0-1025c3feb421
+  type: 3
+  achievementName: 
+  achievementIcon: {fileID: 21300000, guid: 05d16e4595313fe4eb31d0b03bee2370, type: 3}
+  description: Catch X legandery fish
+  levels: 140000004b000000c8000000
+  rarity: 8

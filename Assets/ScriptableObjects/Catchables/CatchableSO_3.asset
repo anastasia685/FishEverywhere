@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_3
+  m_EditorClassIdentifier: 
+  id: 67b981a1-d911-4965-b299-d9dfe3c570f8
+  itemName: Worm Eel
+  environments: 02000000
+  environmentCounts: 05000000
+  itemIcon: {fileID: 21300000, guid: 3c391e3de5c775d40999824055988692, type: 3}
+  itemDescription: 'Hark! A storm comes! In these lands, when a storm appears, one
+    must watch for lightning not only in the sky, but also amongst your feet. Look
+    at my scars and you will see: for I was once an unlucky fool who was zapped by
+    both at once. Shocking.'
+  itemLocation: Forest - Ground
+  baseSize: 10
+  sizeRange: 5
+  beastiaryEntry: {fileID: 11400000, guid: 141ce63815ad6994ca0b8f1bbe604cfa, type: 2}

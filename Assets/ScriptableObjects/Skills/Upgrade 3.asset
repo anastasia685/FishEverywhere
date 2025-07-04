@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd665b2a08442da4aa4d628c27f3d08f, type: 3}
+  m_Name: Upgrade 3
+  m_EditorClassIdentifier: 
+  id: 73a16ac3-2b0d-40ab-8e22-6426003f00db
+  skillName: Legendary Fishing
+  skillIcon: {fileID: 21300000, guid: a40cdbbb75eb2a147a9569d08b44eb40, type: 3}
+  description: 'Your increased skill and experience fishing helps you catch fish! '
+  cost: 25
+  children:
+  - {fileID: 11400000, guid: e75062e8f51bdeb44a863ae036124152, type: 2}
+  buffType: 2
+  buffMultiplier: 1.4

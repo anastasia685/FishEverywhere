@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2c1719ea217544957ff9992e8b0cd, type: 3}
+  m_Name: CatchableSO_5
+  m_EditorClassIdentifier: 
+  id: 0595681b-73cc-4567-bc16-ca7435b90a20
+  itemName: Lady Clam
+  environments: 0300000004000000
+  environmentCounts: 0300000005000000
+  itemIcon: {fileID: 21300000, guid: 210c9d4684e6a6f4db781800a53ab5b4, type: 3}
+  itemDescription: "Within the fish lovers community, it\u2019s often disputed why
+    the Clamshell Ladybug has spots and what the number of spots means. The most
+    scholarly will say it\u2019s for camouflage or to ward off predators, others
+    simply say that it\u2019s the Fish God\u2019s way of giving us organic dice."
+  itemLocation: Forest - Plants & Undergrowth
+  baseSize: 15
+  sizeRange: 5
+  beastiaryEntry: {fileID: 11400000, guid: ce68cab35acbd1a418452df26bc44540, type: 2}

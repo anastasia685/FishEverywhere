@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd665b2a08442da4aa4d628c27f3d08f, type: 3}
+  m_Name: SkillSO 4
+  m_EditorClassIdentifier: 
+  id: 43e32c6a-8070-4998-907e-42d4eeedc30c
+  skillName: Biggest Bait
+  skillIcon: {fileID: 21300000, guid: fcb237b2f2f87f64882f45fde376923e, type: 3}
+  description: Attract bigger fish
+  cost: 50
+  children: []
+  buffType: 1
+  buffMultiplier: 1.5

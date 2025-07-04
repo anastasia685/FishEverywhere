@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 633b69cbee7e1ec4b8cdb643b0b561d5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea0cc3acab97b4cacacfc81030f49f
+      internalID: -1431010662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d748f9b14367247801854200308c35
+      internalID: 1096407270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d434a137c79784ea948b77e650a376
+      internalID: -559514581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f7cd2644b2f1c49974804c205574ae
+      internalID: -697520313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9e691e0543d7d44a9943eea6bf418b
+      internalID: 90107351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34327902034e322449baeb34ec580d1e
+      internalID: 1988057789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 8070
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27583b9973b2432488767e8b2958999d
+      internalID: -1112729457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 9350
+        y: 2160
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65b41d2e485bd41bef2f156df59f26
+      internalID: -2041400573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058befbe7348ab74087e2b09219b4317
+      internalID: -1586164435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce58836f3ce38814fa53bdabce5cf072
+      internalID: -1784800640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62ffe7d2588764ab77a0bb05a7877e
+      internalID: -895739018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4fc12b615a12a4e960655719933da2
+      internalID: -263297132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf69772c8638f2948bbc6f700bc0ea45
+      internalID: -1971586228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a465ccdaba7ed428cf25e0147be915
+      internalID: -1124804628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 8070
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53ddafb6514d544082fd9cb43ad9a91
+      internalID: 528327417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 9350
+        y: 1440
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205bf5d4825a934c81ce20a847421b0
+      internalID: 554633892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634a0c31688ae84a92d5935cdfb397f
+      internalID: 719842551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6156ae953e4e2e3479934f767f93de5d
+      internalID: 994838657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc93fcf8650dcb54e8e18b3fedd45a99
+      internalID: -1600676591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905eeb0edabe3943ba73f3cb3a4c2e8
+      internalID: 1659443778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7009c94401f65a54d80c16c87e6d42d0
+      internalID: -1579859011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961ca9b86a952b94192a66ffa19b32ed
+      internalID: 882697236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 8070
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7239e96b14738b4592210f38c809d03
+      internalID: 879442821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 9350
+        y: 720
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc449d368d4bd44b8c58a453777656
+      internalID: -469996316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296c5927917adf1488991404c848b50c
+      internalID: 1133185375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805374b58bfc3044bb03d079d3e8f06
+      internalID: 1546368936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28ec6a57285534c973bd1c4a30477b
+      internalID: 663960385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc99f16d8f6a44aa1ce0f97b50e78a
+      internalID: -1772289190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31292b64ab6f6a438116699ba6db8ab
+      internalID: -1402502546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba5a3e9dd6dd9c49aa279130639db9c
+      internalID: 1526075157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 8070
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac130ec6344e5409bf0dda7792968c
+      internalID: 128655268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_view_walk_cycle-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 9350
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8985be67875539498ae892e1b3bab56
+      internalID: 1555889128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bc1373d7771399e4b934777fb06ee3bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      front_view_walk_cycle-spritesheet_0: -1431010662
+      front_view_walk_cycle-spritesheet_1: 1096407270
+      front_view_walk_cycle-spritesheet_10: -895739018
+      front_view_walk_cycle-spritesheet_11: -263297132
+      front_view_walk_cycle-spritesheet_12: -1971586228
+      front_view_walk_cycle-spritesheet_13: -1124804628
+      front_view_walk_cycle-spritesheet_14: 528327417
+      front_view_walk_cycle-spritesheet_15: 554633892
+      front_view_walk_cycle-spritesheet_16: 719842551
+      front_view_walk_cycle-spritesheet_17: 994838657
+      front_view_walk_cycle-spritesheet_18: -1600676591
+      front_view_walk_cycle-spritesheet_19: 1659443778
+      front_view_walk_cycle-spritesheet_2: -559514581
+      front_view_walk_cycle-spritesheet_20: -1579859011
+      front_view_walk_cycle-spritesheet_21: 882697236
+      front_view_walk_cycle-spritesheet_22: 879442821
+      front_view_walk_cycle-spritesheet_23: -469996316
+      front_view_walk_cycle-spritesheet_24: 1133185375
+      front_view_walk_cycle-spritesheet_25: 1546368936
+      front_view_walk_cycle-spritesheet_26: 663960385
+      front_view_walk_cycle-spritesheet_27: -1772289190
+      front_view_walk_cycle-spritesheet_28: -1402502546
+      front_view_walk_cycle-spritesheet_29: 1526075157
+      front_view_walk_cycle-spritesheet_3: -697520313
+      front_view_walk_cycle-spritesheet_30: 128655268
+      front_view_walk_cycle-spritesheet_31: 1555889128
+      front_view_walk_cycle-spritesheet_4: 90107351
+      front_view_walk_cycle-spritesheet_5: 1988057789
+      front_view_walk_cycle-spritesheet_6: -1112729457
+      front_view_walk_cycle-spritesheet_7: -2041400573
+      front_view_walk_cycle-spritesheet_8: -1586164435
+      front_view_walk_cycle-spritesheet_9: -1784800640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

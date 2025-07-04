@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd665b2a08442da4aa4d628c27f3d08f, type: 3}
+  m_Name: BaseSkillSO
+  m_EditorClassIdentifier: 
+  id: 8dc32611-02cf-4b6e-b70b-0adebd0ef937
+  skillName: Fishing rod
+  skillIcon: {fileID: 21300000, guid: 09da806702d9d284dabb777d7f287dd0, type: 3}
+  description: A fishing rod you found on the ground
+  cost: 0
+  children:
+  - {fileID: 11400000, guid: afde9e94e4fbf1944a817724dfaff49d, type: 2}
+  - {fileID: 11400000, guid: e7e12b1ac81fb5745b016b4ff909e4ea, type: 2}
+  - {fileID: 11400000, guid: 2e96217ec22099e429f35bd60dbe24ff, type: 2}
+  buffType: 2
+  buffMultiplier: 1
